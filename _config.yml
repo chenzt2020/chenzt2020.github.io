@@ -54,12 +54,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+                href="https://s1.ax1x.com/2020/07/23/ULuRmT.md.jpg"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+                href="https://s1.ax1x.com/2020/07/23/ULuRmT.th.jpg"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
@@ -127,14 +127,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                         }]
                       },
                       "model": [
-                        "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/33/model.2018.bls-winter.json",
-                        "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/platelet-2/model.json",
-                        "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/xiaomai/xiaomai.model.json",
+                        "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/22/model.default.json",
+                        "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/rem/model.json",
+                        "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/model/Tia/index.json",
+                        "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/dollsfrontline/dsr50_2101/normal/model.json",
+                        "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/katou_01/katou_01.model.json",
                         "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/mashiro/seifuku.model.json",
-                        "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/Violet/14.json",
-                        "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/Kobayaxi/Kobayaxi.model.json",
-                        "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/mikoto/mikoto.model.json",
-                        "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/uiharu/uiharu.model.json"]
+                        "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/mikoto/mikoto.model.json"]
                     });'
               ></script>
             - | # 百度爬虫推送，http站点使用 http://push.zhanzhang.baidu.com/push.js
@@ -222,7 +221,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
+              img: https://s1.ax1x.com/2020/07/23/ULuRmT.jpg # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
@@ -597,7 +596,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ5r-W0wQYpIfg-AU%3D_xxx_sign&u=1248174054&n=%E9%A3%8E%E4%BA%91%E4%B8%AD";
                 var alipay = "https://qr.alipay.com/fkx19421hummtg6id8eti19";
                 var myname = "chenzt";
-                var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
+                var profile = "https://s1.ax1x.com/2020/07/23/ULuRmT.md.jpg";
                 var multilingual = true;
                 var myname_hans = "chenzt";
                 var myname_hant = "chenzt";
