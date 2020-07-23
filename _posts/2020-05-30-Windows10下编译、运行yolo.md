@@ -21,10 +21,14 @@ https://pjreddie.com/media/files/yolov3.weights
 
 编译成功后，参照yolo官网的运行步骤，先将yolov3.weights移动到darknet目录下，然后在Powershell下运行命令即可
 
+![](https://upload-images.jianshu.io/upload_images/20868148-938d939b35ca3278.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 运行时间约为50ms，结束后会通过OpenCV展示图像，也可以在darknet目录下看到识别后的图像predictions.jpg
 
-参考：
+![predictions.jpg](https://upload-images.jianshu.io/upload_images/20868148-2a02b8cb30a75649.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-yolo：[https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
+## 参考：
 
-github/AlexeyAB/darknet：[https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-using-cmake](https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-using-cmake)
+- [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+
+- [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-using-cmake)

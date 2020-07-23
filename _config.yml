@@ -404,7 +404,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   2017-2020 chenzt
                 </div>
             wordcount: # 全站字数统计
-              enable: false # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
+              enable: true # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
               prepend: <i class="fas fa-user-edit fa-fw"></i>
               kilo: 千
               unit: 字
@@ -533,7 +533,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   "appId": "raLTWE95uw92NrubygbRDc8p-gzGzoHsz",
                   "appKey": "26GHBBYgxBtDqgncbCac7e0F",
                   "placeholder": "在这里评论吧！填写邮箱可以获得 Gravatar 头像和回复通知哦",
-                  "requiredFields": ["nick","mail"],
+                  "requiredFields": ["nick"],
                   "visitor": true,
                   "recordIP": true
                 })'
