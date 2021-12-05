@@ -6,7 +6,7 @@ tags:
   - STM32
 ---
 
-本文以STM32F407ZG为例
+本文以 STM32F407ZG 为例
 
 ### 1 双击 RT-Thread Settings -> 更多配置 -> 使用CAN设备驱动程序 -> Ctrl+S
 

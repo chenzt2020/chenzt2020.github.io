@@ -73,7 +73,7 @@ CanFestival
 #endif	// GCC
 ```
 
-### 4 实现 3 个接口函数
+### 4 实现3个接口函数
 ``` cpp
 UNS8 canSend(CAN_PORT notused, Message *m)
 {
